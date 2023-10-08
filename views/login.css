@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(148, 233, 148);
+}
+@media(max-width:600px){
+    body{
+        background-color: white;
+    }
+}
